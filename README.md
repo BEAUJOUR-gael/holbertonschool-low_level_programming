@@ -1,1 +1,1 @@
-# holbertonschool-low_level_programming
+This repository contains my C programming projects for Holberton School.
